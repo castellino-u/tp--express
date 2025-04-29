@@ -1,3 +1,3 @@
+Para ejecutar el proyecto se deben abrir dos consolas
+1- en una se debe estar en la carpeta server y correr el comadno: npm run server
 
-para ejecutar el proyecto, poner en la consola el comando : npm run server 
-luego acceder al localhost 3000

@@ -1,5 +1,5 @@
 //hay que hacer la configuración inicial de express
-//esta se la podes pedir al chad
+//esta se la podes pedir al chad porque la estructura es siempre la misma 
 
 const express = require('express');
 const path = require('path')
